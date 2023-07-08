@@ -44,7 +44,7 @@
     "husky": "^7.0.4",
     "lint-staged": "^12.1.2",
     "nodemon": "^2.0.15",
-    "pinst": "^2.1.6",
+    "pinst": "^3.0.0",
     "prettier": "^2.5.0",
     "rimraf": "^3.0.2",
     "ts-node": "^10.4.0",
